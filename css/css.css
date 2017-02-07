@@ -379,3 +379,58 @@ form button {
     border-right: 1px solid #e7e7e7
 }
 
+.wrapper4 {
+	width: 960px;
+	height: 536px;	
+}
+
+.section {
+    position: relative;
+    padding: 0px 10px;
+    margin: 0 auto;
+    width: 940px;
+}
+
+.black {
+    color: #000;
+}
+
+.wrapper4 {
+	margin: 0 auto;
+}
+
+.wrapper4 h2 {
+    padding: 35px 0;
+}
+
+.upp {
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'ms300';
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 1px;
+	text-align: center;
+}
+
+.wrapper4 img {
+    float: left;
+}
+
+img {
+    max-width: 100%;
+}
+
+.wrapper4 p {
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 20px;
+	width: 435px;
+	float: right;
+}
+
+.ms500 {
+    font-family: 'ms500';
+}
